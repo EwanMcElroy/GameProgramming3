@@ -1,0 +1,13 @@
+#version 330
+
+out vec4 FragColor;
+
+in vec2 vertTexCoord;
+
+uniform sampler2D myTexture;
+
+void main()
+{
+	vec4 texCol = texture(myTexture, vertTexCoord);
+	FragColor = vec4(1, 1, 0, 1) * texCol;
+}

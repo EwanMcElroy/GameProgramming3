@@ -1,0 +1,119 @@
+﻿  Application.cpp
+G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Application.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Application.cpp(465,135): warning C4309: 'argument': truncation of constant value
+G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Application.cpp(465,130): warning C4309: 'argument': truncation of constant value
+G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Application.cpp(465,119): warning C4309: 'argument': truncation of constant value
+G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Application.cpp(465,108): warning C4309: 'argument': truncation of constant value
+G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\bullet\LinearMath\btAlignedObjectArray.h(266,1): warning C5033: 'register' is no longer a supported storage class
+G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\bullet\LinearMath\btAlignedObjectArray.h(265): message : while compiling class template member function 'void btAlignedObjectArray<btDbvt::sStkNPS>::push_back(const T &)'
+          with
+          [
+              T=btDbvt::sStkNPS
+          ]
+G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\bullet\BulletCollision\BroadphaseCollision\btDbvt.h(405): message : see reference to function template instantiation 'void btAlignedObjectArray<btDbvt::sStkNPS>::push_back(const T &)' being compiled
+          with
+          [
+              T=btDbvt::sStkNPS
+          ]
+G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\bullet\BulletCollision\BroadphaseCollision\btDbvt.h(400): message : see reference to class template instantiation 'btAlignedObjectArray<btDbvt::sStkNPS>' being compiled
+G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\bullet\LinearMath\btAlignedObjectArray.h(212,1): warning C5033: 'register' is no longer a supported storage class
+G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\bullet\LinearMath\btAlignedObjectArray.h(211): message : while compiling class template member function 'void btAlignedObjectArray<Value>::resize(int,const T &)'
+          with
+          [
+              Value=btTriangleInfo,
+              T=btTriangleInfo
+          ]
+G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\bullet\BulletCollision\CollisionShapes\btTriangleInfoMap.h(222): message : see reference to function template instantiation 'void btAlignedObjectArray<Value>::resize(int,const T &)' being compiled
+          with
+          [
+              Value=btTriangleInfo,
+              T=btTriangleInfo
+          ]
+G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\bullet\LinearMath\btHashMap.h(225): message : see reference to class template instantiation 'btAlignedObjectArray<Value>' being compiled
+          with
+          [
+              Value=btTriangleInfo
+          ]
+G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\bullet\BulletCollision\CollisionShapes\btTriangleInfoMap.h(54): message : see reference to class template instantiation 'btHashMap<btHashInt,btTriangleInfo>' being compiled
+  GP3_Lab_5.vcxproj -> G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\x64\Debug\GP3_Lab_5.exe
+  copying the required libraries and folders
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Audio\SFX\ClickOn.wav
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Audio\SFX\235968__tommccann__explosion-01.wav
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Audio\Theme\Kevin_MacLeod_-_Monkeys_Spinning_Monkeys.mp3
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Audio\Theme\Kevin_MacLeod_-_Winter_Reflections.mp3
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Audio\Theme\DoctorWhoTheme.mp3
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Audio\Theme\the-descent-by-kevin-macleod-from-filmmusic-io.mp3
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Audio\Theme\12812__jilliancallahan__generic-prop-idle.wav
+  7 File(s) copied
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Data\HighScore.dat
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Data\HighScore2.dat
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Data\words.txt
+  3 File(s) copied
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Fonts\BlackPearl.ttf
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Fonts\ChalkPaint.ttf
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Fonts\Chalkboard by Marta van Eck.ttf
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Fonts\Colored Crayons.ttf
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Fonts\RocketRinder-yV5d.ttf
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Fonts\Skeletoncloset.ttf
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Fonts\digital-7.ttf
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Fonts\space age.ttf
+  8 File(s) copied
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Images\Buttons\button_exit.png
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Images\Buttons\button_hscore.png
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Images\Buttons\button_instructions.png
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Images\Buttons\button_load.png
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Images\Buttons\button_menu.png
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Images\Buttons\button_play.png
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Images\Buttons\button_save.png
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Images\Buttons\button_settings.png
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Images\Textures\Wood.jpg
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Images\Textures\Beriev_2048.png
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Images\Textures\DefaultMaterial_Diffuse.png
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Images\Textures\sandTexture.png
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Images\Textures\LowPoly_Solder_Def.jpg
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Images\Textures\AIM-54 phoenix texture.jpeg
+  14 File(s) copied
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Models\cube.obj
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Models\cube2.obj
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Models\dalek.obj
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Models\BerievA50.FBX
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Models\tank_trexhwm.obj
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Models\desert obj.obj
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Models\Solder_Character_Mesh_OBJ01.obj
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Models\Aim-54_Phoenix.obj
+  8 File(s) copied
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Shaders\simple_FRAG.glsl
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Shaders\simple_VERT.glsl
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Shaders\sandShaderFRAG.glsl.txt
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Shaders\sandShaderVERT.glsl.txt
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Shaders\Labs1-3\simple_FRAG.glsl
+  G:\4th Year Uni\Games Programming 3\Labs\gp3-lab-5-a-EwanMcElroy-master 6\gp3-lab-5-a-EwanMcElroy-master\Assets\Shaders\Labs1-3\simple_VERT.glsl
+  6 File(s) copied
+  SDL2\SDL2-2.0.4\lib\x64\SDL2.dll
+  1 File(s) copied
+  SDL2\SDL2_image-2.0.1\lib\x64\SDL2_image.dll
+  SDL2\SDL2_image-2.0.1\lib\x64\libjpeg-9.dll
+  SDL2\SDL2_image-2.0.1\lib\x64\libpng16-16.dll
+  SDL2\SDL2_image-2.0.1\lib\x64\libtiff-5.dll
+  SDL2\SDL2_image-2.0.1\lib\x64\libwebp-4.dll
+  SDL2\SDL2_image-2.0.1\lib\x64\zlib1.dll
+  6 File(s) copied
+  SDL2\SDL2_ttf-2.0.14\lib\x64\SDL2_ttf.dll
+  SDL2\SDL2_ttf-2.0.14\lib\x64\libfreetype-6.dll
+  SDL2\SDL2_ttf-2.0.14\lib\x64\zlib1.dll
+  3 File(s) copied
+  SDL2\SDL2_mixer-2.0.1\lib\x64\SDL2_mixer.dll
+  SDL2\SDL2_mixer-2.0.1\lib\x64\libFLAC-8.dll
+  SDL2\SDL2_mixer-2.0.1\lib\x64\libmikmod-2.dll
+  SDL2\SDL2_mixer-2.0.1\lib\x64\libmodplug-1.dll
+  SDL2\SDL2_mixer-2.0.1\lib\x64\libogg-0.dll
+  SDL2\SDL2_mixer-2.0.1\lib\x64\libvorbis-0.dll
+  SDL2\SDL2_mixer-2.0.1\lib\x64\libvorbisfile-3.dll
+  SDL2\SDL2_mixer-2.0.1\lib\x64\smpeg2.dll
+  8 File(s) copied
+  glew-2.1.0\bin\Release\x64\glew32.dll
+  1 File(s) copied
+  assimp\Lib\assimp.dll
+  1 File(s) copied
+  File not found - *.dll
+  0 File(s) copied
